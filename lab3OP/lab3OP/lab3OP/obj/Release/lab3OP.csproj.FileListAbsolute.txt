@@ -1,0 +1,8 @@
+D:\labs\lab3OP\lab3OP\lab3OP\bin\Release\lab3OP.exe.config
+D:\labs\lab3OP\lab3OP\lab3OP\bin\Release\lab3OP.exe
+D:\labs\lab3OP\lab3OP\lab3OP\bin\Release\lab3OP.pdb
+D:\labs\lab3OP\lab3OP\lab3OP\obj\Release\lab3OP.csproj.AssemblyReference.cache
+D:\labs\lab3OP\lab3OP\lab3OP\obj\Release\lab3OP.csproj.SuggestedBindingRedirects.cache
+D:\labs\lab3OP\lab3OP\lab3OP\obj\Release\lab3OP.csproj.CoreCompileInputs.cache
+D:\labs\lab3OP\lab3OP\lab3OP\obj\Release\lab3OP.exe
+D:\labs\lab3OP\lab3OP\lab3OP\obj\Release\lab3OP.pdb
